@@ -25,7 +25,7 @@ SECRET_KEY = '4qpr($9ysj^7d(9#2$w*g1)lec)^^-fj#i8mx*mnt@nug5^dtx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','.pythonywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','pramon.pythonywhere.com']
 
 
 # Application definition
